@@ -49,6 +49,6 @@
 ## 🌍 Languages
 
 * 🇪🇸 Spanish — Native
-* 🟡 Catalan — Native
+* :regional_indicator_c::regional_indicator_a::regional_indicator_t: Catalan — Native
 * 🇬🇧 English — Professional
 * 🇧🇷 Portuguese — Intermediate
