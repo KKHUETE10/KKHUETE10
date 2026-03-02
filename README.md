@@ -52,13 +52,3 @@
 * 🟡 Catalan — Native
 * 🇬🇧 English — Professional
 * 🇧🇷 Portuguese — Intermediate
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: Pau Segura
-
----
-
-⭐ Always open to learning, collaborating on projects and improving my development skills.
