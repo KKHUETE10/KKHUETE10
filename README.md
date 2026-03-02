@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Pau Segura
 
-*🎓 Computer Science / Engineering Student from Spain
-*🌍 Currently doing an international exchange at **FACENS – Sorocaba, Brazil** studying *Engenharia da Computação*
-*💻 Passionate about software development, databases and learning new technologies
+🎓 Computer Science / Engineering Student from Spain
+🌍 Currently doing an international exchange at **FACENS – Sorocaba, Brazil** studying *Engenharia da Computação*
+💻 Passionate about software development, databases and learning new technologies
 
 ---
 
